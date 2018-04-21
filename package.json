@@ -1,0 +1,22 @@
+{
+  "name": "whocares",
+  "version": "1.0.0",
+  "description": "\"No one cares\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerknl/whocares.git"
+  },
+  "author": "KNL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerknl/whocares/issues"
+  },
+  "homepage": "https://github.com/rogerknl/whocares#readme",
+  "dependencies": {
+    "mocha": "^5.1.1"
+  }
+}
